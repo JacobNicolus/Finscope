@@ -1,2 +1,3 @@
-# Global-Financial-Health-Index-Data_Analytics-
-A data analytics project that builds a Global Financial Health Index using economic and financial indicators from public datasets.
+# Global Financial Health Analytics
+
+This project analyzes global financial health using public economic and financial datasets. The goal is to create a Financial Health Index and visualize country-level financial performance through dashboards and data analysis.
